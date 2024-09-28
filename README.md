@@ -1,4 +1,4 @@
-# **Text Editor Program**
+# 📝 **Text Editor Program**
 Welcome to the Text Editor Program! This is a simple text editor written in Python using the Tkinter library. This application allows you to create, open, save, and edit text files. You can also customize text color, font type, and font size.
 
 ## Features
